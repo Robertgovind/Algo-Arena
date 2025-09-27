@@ -1,0 +1,1 @@
+{"name":"Local: the-missing-athlete","url":"c:\\Users\\govin\\OneDrive\\Desktop\\AlgoArena\\the-missing-athlete.cpp","tests":[{"id":1758889493911,"input":"5\n1 2 4 3","output":"5 -1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\govin\\OneDrive\\Desktop\\AlgoArena\\the-missing-athlete.cpp","group":"local","local":true}
